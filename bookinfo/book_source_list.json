@@ -1,0 +1,16 @@
+[
+  {
+    "sourceId": "book_plan",
+    "version": 1,
+    "bookNum": 28,
+    "localPath": "bookstore/book_plan.json",
+    "infoUrl": "https://raw.githubusercontent.com/wei2006004/book_source_info/master/bookinfo/book_plan.json"
+  },
+  {
+    "sourceId": "book_gute",
+    "version": 1,
+    "bookNum": 196,
+    "localPath": "bookstore/book_gute.json",
+    "infoUrl": "https://raw.githubusercontent.com/wei2006004/book_source_info/master/bookinfo/book_gute.json"
+  }
+]
