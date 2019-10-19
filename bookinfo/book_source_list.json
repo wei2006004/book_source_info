@@ -9,8 +9,22 @@
   {
     "sourceId": "book_gute",
     "version": 1,
-    "bookNum": 196,
-    "localPath": "bookstore/book_gute.json",
-    "infoUrl": "https://raw.githubusercontent.com/wei2006004/book_source_info/master/bookinfo/book_gute.json"
+    "bookNum": 187,
+    "localPath": "bookstore/book_gute_cover.json",
+    "infoUrl": "https://raw.githubusercontent.com/wei2006004/book_source_info/master/bookinfo/book_gute_cover.json"
+  },
+  {
+    "sourceId": "book_gute",
+    "version": 1,
+    "bookNum": 250,
+    "localPath": "bookstore/book_gute_pop1.json",
+    "infoUrl": "https://raw.githubusercontent.com/wei2006004/book_source_info/master/bookinfo/book_gute_pop1.json"
+  },
+  {
+    "sourceId": "book_gute",
+    "version": 1,
+    "bookNum": 245,
+    "localPath": "bookstore/book_gute_pop2.json",
+    "infoUrl": "https://raw.githubusercontent.com/wei2006004/book_source_info/master/bookinfo/book_gute_pop2.json"
   }
 ]
